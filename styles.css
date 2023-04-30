@@ -1,0 +1,18 @@
+.navbar{
+    background-color: #005a82;
+}
+
+.navbar-brand img{
+    background-color: #fff;
+    border-radius: 50%;;
+}
+
+.btn-primary{
+    background-color: #005a82;
+    border-color: #005a82;
+}
+
+.btn-secondary{
+    background-color: #b2a260;
+    border-color: #b2a260;
+}
