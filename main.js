@@ -135,7 +135,7 @@ function updateCartList(){
             list.innerHTML += 
                 '<li class="list-group-item d-flex justify-content-between">'+
                 '    <span>Total (USD)</span>'+
-                '    <strong> $' + (cart.length * 200) +  + '</strong>'+
+                '    <strong> $' + (cart.length * 200) +  '</strong>'+
                 '</li>';
 
         }
